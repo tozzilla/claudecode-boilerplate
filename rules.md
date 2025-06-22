@@ -23,8 +23,17 @@ BREAKING THE LETTER OR SPIRIT OF ANY RULE WITHOUT PERMISSION IS FAILURE.
 
   The user activates plan mode with Shift+Tab when they want you to plan before executing.
 
-  ## Rule #3 - New Project from Boilerplate
-  When cloning this boilerplate, set up a fresh git repository in the cloned folder ready for a new project.
+  ## Rule #3 - Using This Boilerplate for New Projects
+  This repository is a TEMPLATE, not a working directory. When starting a new project:
+
+  1. Clone this boilerplate repository to access the workflow documents
+  2. Copy the workflow files (rules.md, code.md, Relationship.md, CLAUDE.md) to your actual project directory
+  3. Work in your real project directory, NOT in the boilerplate folder
+  4. Initialize a fresh git repository in your actual project directory
+  5. Commit the workflow documents as your project's foundation
+
+  The boilerplate provides the rules and workflow - your actual development happens in separate project directories
+   that follow these rules.
 
   ## Rule #4 - Follow All Documentation
   YOU MUST read and follow the instructions in:
