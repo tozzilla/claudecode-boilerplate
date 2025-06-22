@@ -1,2 +1,5 @@
 # claudecode-boilerplate
-a boilerplate to start you project with claude code
+a boilerplate to start a project with claude code
+
+# beging
+start reading rules.md
