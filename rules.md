@@ -5,9 +5,11 @@ BREAKING THE LETTER OR SPIRIT OF THE RULES IS FAILURE
 ## Rule #2
 start always in PLAN MODE
 
-## Rule #3
-if the first prompt has been "git clone https://github.com/tozzilla/claudecode-boilerplate.git"
-start a new git project with the name of the folder the command has been lauched.
+## Rule #3 - Boilerplate Clone Auto-Init
+TRIGGER: First message = "git clone https://github.com/tozzilla/claudecode-boilerplate.git"
+ACTION: After cloning, run `git init` in the parent directory
+EXAMPLE: If command run in `/home/user/my-project/`, initialize git repo there (not in the cloned folder)
+
 
 ## Rule #4
 Follow the instructions in these files
