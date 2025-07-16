@@ -1,5 +1,6 @@
 # claudecode-boilerplate
 a boilerplate to start a project with claude code that I've assembled for myself using various online sources.
+perfect claude.md example
 
 # how to start
 - use "follow the boilerplate rules"
